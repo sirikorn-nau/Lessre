@@ -1,0 +1,112 @@
+[
+    {
+        "sub_id" : "06016304",
+        "sub_name" : "Probability and Statistics",
+        "enr_credit" : "3",
+        "semester" : "ปี 2/2",
+        "timetable" : "จ. 14:00-17:00",
+        "class" : "M23",
+        "enr_status" : "ลงทะเบียนแล้ว",
+        "midterm" : "03-xx-2023",
+        "final" : "05-xx-2023",
+        "stu_id" : "64070245"
+    },
+    {
+        "sub_id" : "06016308",
+        "sub_name" : "Database System Concepts",
+        "enr_credit" : "3",
+        "semester" : "ปี 2/2",
+        "timetable" : "จ. 09:00-13:00",
+        "class" : "Project base 3",
+        "enr_status" : "ลงทะเบียนแล้ว",
+        "midterm" : "03-xx-2023",
+        "final" : "05-xx-2023",
+        "stu_id" : "64070245"
+    },
+    {
+        "sub_id" : "06016321",
+        "sub_name" : "Software Engineering",
+        "enr_credit" : "3",
+        "semester" : "ปี 2/2",
+        "timetable" : "ศ. 13:00-16:00",
+        "class" : "M22",
+        "enr_status" : "ลงทะเบียนแล้ว",
+        "midterm" : "03-xx-2023",
+        "final" : "05-xx-2023",
+        "stu_id" : "64070245"
+    },
+    {
+        "sub_id" : "06016322",
+        "sub_name" : "Web Programming",
+        "enr_credit" : "3",
+        "semester" : "ปี 2/2",
+        "timetable" : "ศ. 09:00-12:00",
+        "class" : "L304",
+        "enr_status" : "ลงทะเบียนแล้ว",
+        "midterm" : "03-xx-2023",
+        "final" : "05-xx-2023",
+        "stu_id" : "64070245"
+    },
+    {
+        "sub_id" : "06016306",
+        "sub_name" : "Information Systems Analysis and Design",
+        "enr_credit" : "3",
+        "semester" : "ปี 2/2",
+        "timetable" : "พ. 09:00-12:00",
+        "class" : "M22",
+        "enr_status" : "ลงทะเบียนแล้ว",
+        "midterm" : "03-xx-2023",
+        "final" : "05-xx-2023",
+        "stu_id" : "64070245"
+    },
+    {
+        "sub_id" : "06xxxxxx",
+        "sub_name" : "เลือกคณะ 1",
+        "course" : "วิชาเลือก",
+        "enr_credit" : "3",
+        "semester" : "ปี 2/2",
+        "timetable" : "พฤ. 09:00-12:00",
+        "class" : "M22",
+        "enr_status" : "ลงทะเบียนแล้ว",
+        "midterm" : "03-xx-2023",
+        "final" : "05-xx-2023",
+        "admin_id" : "admin001"
+    },
+    {
+        "sub_id" : "90xxxxxx",
+        "sub_name" : "เลือกเสรี 2",
+        "course" : "วิชาเลือก",
+        "enr_credit" : "3",
+        "semester" : "ปี 2/2",
+        "timetable" : "อ. 09:00-12:00",
+        "class" : "M22",
+        "enr_status" : "ลงทะเบียนแล้ว",
+        "midterm" : "03-xx-2023",
+        "final" : "05-xx-2023",
+        "admin_id" : "admin001"
+    },
+    {
+        "sub_id" : "06016302",
+        "sub_name" : "Mathematics for Information Technology",
+        "enr_credit" : "3",
+        "semester" : "ปี 1/1",
+        "timetable" : "จ. 09:00-12:00",
+        "class" : "M22",
+        "enr_status" : "ลงทะเบียนแล้ว",
+        "midterm" : "03-xx-2022",
+        "final" : "05-xx-2022",
+        "stu_id" : "64070245"
+    },
+    {
+        "sub_id" : "06016312",
+        "sub_name" : "Web Technology",
+        "enr_credit" : "3",
+        "semester" : "ปี 2/1",
+        "timetable" : "พ. 09:00-12:00",
+        "class" : "L207",
+        "enr_status" : "ลงทะเบียนแล้ว",
+        "midterm" : "03-xx-2023",
+        "final" : "05-xx-2023",
+        "stu_id" : "64070245"
+    }
+]

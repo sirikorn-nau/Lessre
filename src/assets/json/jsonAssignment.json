@@ -1,0 +1,128 @@
+[
+    {
+        "number": 1,
+        "asm_name": "งานที่ 1",
+        "deadline": "02-27-2023",
+        "asm_status": "เสร็จแล้ว",
+        "stu_id": "64070245",
+        "sub_id": "06016302",
+        "semester": "ปี 1/1"
+    },
+    {
+        "number": 2,
+        "asm_name": "งานที่ 2",
+        "deadline": "02-29-2023",
+        "asm_status": "เสร็จแล้ว",
+        "stu_id": "64070245",
+        "sub_id": "06016312",
+        "semester": "ปี 2/1"
+    },
+    {
+        "number": 3,
+        "asm_name": "งานที่ 3",
+        "deadline": "03-02-2023",
+        "asm_status": "เสร็จแล้ว",
+        "stu_id": "64070245",
+        "sub_id": "06016308",
+        "semester": "ปี 2/2"
+    },
+    {
+        "number": 4,
+        "asm_name": "งานที่ 4",
+        "deadline": "03-05-2023",
+        "asm_status": "กำลังทำ",
+        "stu_id": "64070245",
+        "sub_id": "06016308",
+        "semester": "ปี 2/2"
+    },
+    {
+        "number": 5,
+        "asm_name": "งานที่ 5",
+        "deadline": "03-06-2023",
+        "asm_status": "ยังไม่เริ่มทำ",
+        "stu_id": "64070245",
+        "sub_id": "06016304",
+        "semester": "ปี 2/2"
+    },
+    {
+        "number": 6,
+        "asm_name": "งานที่ 6",
+        "deadline": "03-09-2023",
+        "asm_status": "เสร็จแล้ว",
+        "stu_id": "64070245",
+        "sub_id": "06016304",
+        "semester": "ปี 2/2"
+    },
+    {
+        "number": 7,
+        "asm_name": "งานที่ 7",
+        "deadline": "03-09-2023",
+        "asm_status": "กำลังทำ",
+        "stu_id": "64070245",
+        "sub_id": "06016304",
+        "semester": "ปี 2/2"
+    },
+    {
+        "number": 8,
+        "asm_name": "งานที่ 8",
+        "deadline": "03-11-2023",
+        "asm_status": "ยังไม่เริ่มทำ",
+        "stu_id": "64070245",
+        "sub_id": "06016308",
+        "semester": "ปี 2/2"
+    },
+    {
+        "number": 9,
+        "asm_name": "งานที่ 9",
+        "deadline": "03-15-2023",
+        "asm_status": "ยังไม่เริ่มทำ",
+        "stu_id": "64070245",
+        "sub_id": "06016321",
+        "semester": "ปี 2/2"
+    },
+    {
+        "number": 10,
+        "asm_name": "งานที่ 10",
+        "deadline": "03-08-2023",
+        "asm_status": "กำลังทำ",
+        "stu_id": "64070245",
+        "sub_id": "06016321",
+        "semester": "ปี 2/2"
+    },
+    {
+        "number": 11,
+        "asm_name": "งานที่ 11",
+        "deadline": "03-06-2023",
+        "asm_status": "กำลังทำ",
+        "stu_id": "64070245",
+        "sub_id": "06016322",
+        "semester": "ปี 2/2"
+    },
+    {
+        "number": 12,
+        "asm_name": "งานที่ 12",
+        "deadline": "03-12-2023",
+        "asm_status": "ยังไม่เริ่มทำ",
+        "stu_id": "64070245",
+        "sub_id": "06016312",
+        "semester": "ปี 2/1"
+    },
+    {
+        "number": 13,
+        "asm_name": "งานที่ 13",
+        "deadline": "03-13-2023",
+        "asm_status": "กำลังทำ",
+        "stu_id": "64070245",
+        "sub_id": "06016306",
+        "semester": "ปี 2/2"
+    },
+    {
+        "number": 14,
+        "asm_name": "งานที่ 14",
+        "deadline": "03-14-2023",
+        "asm_status": "กำลังทำ",
+        "stu_id": "64070245",
+        "sub_id": "06016308",
+        "semester": "ปี 2/2"
+    }
+]

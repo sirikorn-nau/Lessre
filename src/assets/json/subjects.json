@@ -1,0 +1,101 @@
+[
+    {
+        "sub_id" : "06016304",
+        "sub_name" : "Probability and Statistics",
+        "course" : "วิชาบังคับ",
+        "credit" : 3,
+        "midterm" : "2023-03-xx",
+        "final" : "2023-05-xx",
+        "admin_id" : "admin001"
+    },
+    {
+        "sub_id" : "06016308",
+        "sub_name" : "Database System Concepts",
+        "course" : "วิชาบังคับ",
+        "credit" : 3,
+        "midterm" : "2023-03-xx",
+        "final" : "2023-05-xx",
+        "admin_id" : "admin001"
+    },
+    {
+        "sub_id" : "06016321",
+        "sub_name" : "Software Engineering",
+        "course" : "วิชาบังคับ",
+        "credit" : 3,
+        "midterm" : "2023-03-xx",
+        "final" : "2023-05-xx",
+        "admin_id" : "admin001"
+    },
+    {
+        "sub_id" : "06016322",
+        "sub_name" : "Web Programming",
+        "course" : "วิชาบังคับ",
+        "credit" : 3,
+        "midterm" : "2023-03-xx",
+        "final" : "2023-05-xx",
+        "admin_id" : "admin001"
+    },
+    {
+        "sub_id" : "06016306",
+        "sub_name" : "Information Systems Analysis and Design",
+        "course" : "วิชาบังคับ",
+        "credit" : 3,
+        "midterm" : "2023-03-xx",
+        "final" : "2023-05-xx",
+        "admin_id" : "admin001"
+    },
+    {
+        "sub_id" : "06xxxxxx",
+        "sub_name" : "วิชาเลือกคณะ 1",
+        "course" : "วิชาเลือก",
+        "credit" : 3,
+        "midterm" : "2023-03-xx",
+        "final" : "2023-05-xx",
+        "admin_id" : "admin001"
+    },
+    {
+        "sub_id" : "90xxxxxx",
+        "sub_name" : "เลือกเสรี 1",
+        "course" : "วิชาเลือก",
+        "credit" : 3,
+        "midterm" : "2023-03-xx",
+        "final" : "2023-05-xx",
+        "admin_id" : "admin001"
+    },
+    {
+        "sub_id" : "06016302",
+        "sub_name" : "Mathematics for Information Technology",
+        "course" : "วิชาบังคับ",
+        "credit" : 3,
+        "midterm" : "2023-03-xx",
+        "final" : "2023-05-xx",
+        "admin_id" : "admin001"
+    },
+    {
+        "sub_id" : "06016312",
+        "sub_name" : "Web Technology",
+        "course" : "วิชาบังคับ",
+        "credit" : 3,
+        "midterm" : "2023-03-xx",
+        "final" : "2023-05-xx",
+        "admin_id" : "admin001"
+    },
+    {
+        "sub_id" : "06016309",
+        "sub_name" : "Information System Security and IT Laws",
+        "course" : "วิชาบังคับ",
+        "credit" : 3,
+        "midterm" : "2023-03-xx",
+        "final" : "2023-05-xx",
+        "admin_id" : "admin001"
+    },
+    {
+        "sub_id" : "90xxxxxx",
+        "sub_name" : "เลือกเสรี 2",
+        "course" : "วิชาเลือก",
+        "credit" : 3,
+        "midterm" : "2023-03-xx",
+        "final" : "2023-05-xx",
+        "admin_id" : "admin001"
+    }
+]
